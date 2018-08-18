@@ -3,16 +3,20 @@ Written in Python
 Used PyCharm
 
 # How to play...
-'7' --> top row, left corner of board
-'8' --> top row, middle sqaure of board
+'7' --> top row, left corner of board |
+'8' --> top row, middle sqaure of board |
 '9' --> top row, right corner of board
 
-'4' --> middle row, left square of board
-'5' --> middle row, middle square of board
+--------------------------------------------------
+
+'4' --> middle row, left square of board |
+'5' --> middle row, middle square of board |
 '6' --> middle row, right square of board
 
-'1' --> bottom row, left corner of board
-'2' --> bottom row, middle square of board
+--------------------------------------------------
+
+'1' --> bottom row, left corner of board |
+'2' --> bottom row, middle square of board |
 '3' --> bottom row, right corner of board
 
 # CPU AI Logic
