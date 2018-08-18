@@ -26,8 +26,8 @@ ________________
 The board is setup like your standard keyboard number pad
 
 # CPU AI Logic
-Check 1: check if CPU can win in next turn
-Check 2: check if player/user can win in next turn, and block user winning selection
-Check 3: try taking one of the 4 corners, if available ('1', '3', '7', '9')
-Check 4: try to take the center, if available ('5')
-Check 5: try taking one of the sides, if available ('2', '4', '6', '8')
+- Check 1: check if CPU can win in next turn
+- Check 2: check if player/user can win in next turn, and block user winning selection
+- Check 3: try taking one of the 4 corners, if available ('1', '3', '7', '9')
+- Check 4: try to take the center, if available ('5')
+- Check 5: try taking one of the sides, if available ('2', '4', '6', '8')
